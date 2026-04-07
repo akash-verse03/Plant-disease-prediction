@@ -28,6 +28,4 @@ A deep learning-based web application that predicts plant diseases from leaf ima
 - PIL (Python Imaging Library)
 - Streamlit
 
----
-
-##  Project Structure
+--
