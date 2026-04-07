@@ -1,9 +1,0 @@
-# Ignore model files
-*.h5
-
-# Python cache
-__pycache__/
-*.pyc
-
-# Virtual environment
-.venv/
